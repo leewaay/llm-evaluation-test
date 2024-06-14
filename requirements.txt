@@ -1,0 +1,4 @@
+ipywidgets
+openai
+python-dotenv
+deepeval
